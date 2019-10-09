@@ -1,0 +1,11 @@
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/obj/Debug/netcoreapp3.0/testing-similarity-algorithms.csprojAssemblyReference.cache
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/obj/Debug/netcoreapp3.0/testing-similarity-algorithms.AssemblyInfoInputs.cache
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/obj/Debug/netcoreapp3.0/testing-similarity-algorithms.AssemblyInfo.cs
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms.deps.json
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms.runtimeconfig.json
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms.runtimeconfig.dev.json
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms.dll
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/bin/Debug/netcoreapp3.0/testing-similarity-algorithms.pdb
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/obj/Debug/netcoreapp3.0/testing-similarity-algorithms.dll
+/home/alex/c#/project-wildfire/EXPERIMENTATION/testing-similarity-algorithms/obj/Debug/netcoreapp3.0/testing-similarity-algorithms.pdb
