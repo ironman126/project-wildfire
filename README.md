@@ -1,4 +1,5 @@
 # project-wildfire
+# dev branch
 Using similarity distance and machine learning algorithms to detect wildfires and show information about them to relevant people. Part of NASA's app challenge 2019. https://www.spaceappschallenge.org/  www.marlwoodcodeclub.org
 
 Yes, there have been hundreds of projects like this in the past. But they're fun, they teach machine learning, and they can be useful! This one is being built to work in Indonesia as they don't have any wildfire prediction algorithms right now and they have very bad wildfires.
