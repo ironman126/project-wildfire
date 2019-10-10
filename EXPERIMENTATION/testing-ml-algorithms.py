@@ -20,12 +20,16 @@ url = "https://raw.githubusercontent.com/jbrownlee/Datasets/master/iris.csv"
 names = ['sepal-length', 'sepal-width', 'petal-length', 'petal-width', 'class']
 dataset = pandas.read_csv(url, names=names)
 
+
 # Split-out validation dataset
+#Alex notes: As I understand it, it's getting a verification data set
 array = dataset.values
 X = array[:,0:4]
 Y = array[:,4]
 validation_size = 0.20
 seed = 7
+
+#I think thus us splitting it into stuff it understands.
 X_train, X_validation, Y_train, Y_validation = model_selection.train_test_split(X, Y, test_size=validation_size, random_state=seed)
 
 
@@ -35,9 +39,13 @@ scoring = 'accuracy'
 
 
 # Make predictions on validation dataset
+#create ML object
 knn = KNeighborsClassifier()
+#train it
 knn.fit(X_train, Y_train)
+#predict stuff
 predictions = knn.predict(X_validation)
+#print stuff
 print(accuracy_score(Y_validation, predictions))
 print(confusion_matrix(Y_validation, predictions))
 print(classification_report(Y_validation, predictions))
