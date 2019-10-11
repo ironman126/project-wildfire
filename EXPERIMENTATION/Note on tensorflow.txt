@@ -1,0 +1,4 @@
+It appears that unless I compile it throws thoroughly cryptic errors like
+"Illegal operation (core dumped)"
+
+I am going to use other packages, if you need to use tensorflow, I recommend building from source.
